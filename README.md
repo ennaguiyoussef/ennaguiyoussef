@@ -91,40 +91,13 @@ class YoussefEnnagui:
 
 <div align="center">
 
-<!-- GitHub Stats - Primary (github-readme-stats) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ennaguiyoussef&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Youssef's%20GitHub%20Stats&cache_seconds=86400)
 
-<!-- Top Languages - Primary -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ennaguiyoussef&layout=compact&theme=radical&hide_border=true&langs_count=12&custom_title=Top%20Languages&cache_seconds=86400)
 
-<!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ennaguiyoussef&theme=radical&hide_border=true&fire=00D4AA&currStreakLabel=Current%20Streak&cache_seconds=86400)
 
-<!-- Fallback: GitHub Profile Summary Cards (more reliable) -->
-<br>
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ennaguiyoussef&theme=radical)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennaguiyoussef&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ennaguiyoussef&theme=radical)
-
 </div>
-
-<details>
-<summary>🔧 <strong>Troubleshooting: If stats show "Error Fetching Resource"</strong></summary>
-
-The GitHub stats widgets use external services that may occasionally be rate-limited or unavailable. Here are reliable alternatives:
-
-| Service | Status | Notes |
-|---------|--------|-------|
-| **github-readme-stats** (primary) | ⚠️ May fail | Rate limited, caches for 24h |
-| **github-profile-summary-cards** (fallback) | ✅ More reliable | Different API, better uptime |
-| **GitHub GraphQL API** (manual) | ✅ Always works | Requires manual update |
-
-**Quick fixes:**
-1. **Wait & refresh** - Services cache for 24 hours
-2. **Check service status** - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) / [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-3. **Use GitHub's native stats** - Visit your [profile insights](https://github.com/ennaguiyoussef?tab=overview) for official data
-
-</details>
 
 ---
 
