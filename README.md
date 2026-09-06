@@ -91,9 +91,8 @@ class YoussefEnnagui:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ennaguiyoussef&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Youssef's%20GitHub%20Stats&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ennaguiyoussef&layout=compact&theme=radical&hide_border=true&langs_count=12&custom_title=Top%20Languages&cache_seconds=86400)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ennaguiyoussef&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Youssef's%20GitHub%20Stats&cache_seconds=86400)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ennaguiyoussef&layout=compact&theme=radical&hide_border=true&langs_count=12&custom_title=Top%20Languages&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ennaguiyoussef&theme=radical&hide_border=true&fire=00D4AA&currStreakLabel=Current%20Streak&cache_seconds=86400)
 
